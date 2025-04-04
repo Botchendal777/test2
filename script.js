@@ -1,0 +1,2 @@
+// Minified JS (0.9KB)
+document.getElementById("darkModeToggle").addEventListener("click",()=>document.body.classList.toggle("dark-mode")),document.querySelectorAll("img[loading='lazy']").forEach(e=>{e.src=e.dataset.src||e.src});
